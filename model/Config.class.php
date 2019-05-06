@@ -44,7 +44,7 @@ Class Config{
 	const EMAIL_HOST = "smtp.gmail.com";
 	const EMAIL_USER = "cesar252742@gmail.com";
 	const EMAIL_NOME = "Contato Ramos Tecnolog";
-	const EMAIL_SENHA = "Samanta2527";
+	const EMAIL_SENHA ="1345672";
 	const EMAIL_PORTA = 587;
 	const EMAIL_SMTPAUTH = true;
 	const EMAIL_SMTPSECURE = "tls";
